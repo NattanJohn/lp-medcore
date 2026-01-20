@@ -1,38 +1,67 @@
-# 🏥 MedCore - Landing Page Médica Premium
 
-Landing Page de alta performance desenvolvida para clínicas e profissionais de saúde, focada em conversão, acessibilidade e SEO.
+# 🏥 MedCore - Landing Page Médica
+
+> Landing page premium para clínicas e profissionais de saúde, focada em conversão, acessibilidade e SEO.
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
-![Tecnologias](https://img.shields.io/badge/Next.js%2015-Black?logo=next.js)
-![Estilo](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js%2015-000?logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+---
 
 ## 🎯 Objetivo
-Demonstrar a aplicação de conceitos avançados de **Frontend Engineering**: otimização de Core Web Vitals (LCP, CLS), animações fluidas com Framer Motion e integração de agendamento via WhatsApp/Calendly.
 
-## 🚀 Diferenciais Técnicos
+Aplicar conceitos avançados de **Frontend Engineering**: Core Web Vitals, animações fluidas, acessibilidade e integração de agendamento online.
 
-- **Performance Extrema:** Uso de `next/image` para otimização automática de imagens (WebP/AVIF) e carregamento sob demanda (Lazy Loading).
-- **UX Inovadora:** Carrossel infinito no Hero utilizando `AnimatePresence` para transições suaves.
-- **Scroll Suave:** Navegação via âncoras otimizada via CSS nativo e React State.
-- **Design Médico Moderno:** Paleta de cores suave, tipografia legível e interface totalmente responsiva (Mobile-First).
-- **Acessibilidade:** Tags semânticas e conformidade com leitores de tela.
+## 🚀 Destaques Técnicos
 
-## 🛠️ Stack Utilizada
+- ⚡ **Performance extrema** com `next/image` (WebP/AVIF, lazy loading)
+- 🎬 **Animações suaves** com Framer Motion
+- 🧑‍⚕️ **Design médico moderno** e responsivo
+- ♿ **Acessibilidade**: tags semânticas, contraste e navegação por teclado
+- 📱 **Mobile-first**
+- 🔗 **Agendamento via WhatsApp**
 
-- **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
-- **Linguagem:** TypeScript
-- **Estilização:** Tailwind CSS
-- **Animações:** Framer Motion
-- **Ícones:** React Icons (Lucide/Feather)
+## 🛠️ Stack
 
-## 💻 Como Rodar o Projeto
+- **Next.js 15** (App Router)
+- **TypeScript**
+- **Tailwind CSS**
+- **Framer Motion**
+- **React Icons**
 
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/medcore-landing-page.git](https://github.com/SEU_USUARIO/medcore-landing-page.git)
-Instale as dependências:
+## 📸 Preview
 
-Bash
+<!-- Adicione um screenshot do projeto na pasta public/preview.jpg para exibir aqui -->
+<!-- ![Preview](public/preview.jpg) -->
+
+## 💻 Como rodar localmente
+
+```bash
+git clone https://github.com/SEU_USUARIO/medcore-landing-page.git
+cd medcore-landing-page
+npm install
+npm run dev
+```
+Acesse: [http://localhost:3000](http://localhost:3000)
+
+## ☁️ Deploy
+
+Deploy instantâneo e gratuito no [Vercel](https://vercel.com/):
+
+[![Deploy with Vercel](https://vercel.com/button)](https://lp-medcore.vercel.app/)
+
+## 🤝 Contribuição
+
+Contribuições são bem-vindas! Abra uma issue ou envie um PR.
+
+## 📄 Licença
+
+MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+<p align="center">Desenvolvido com ☕ por Nattan John</p>
 npm install
 Inicie o ambiente de desenvolvimento:
 
