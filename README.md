@@ -30,10 +30,6 @@ Aplicar conceitos avançados de **Frontend Engineering**: Core Web Vitals, anima
 - **Framer Motion**
 - **React Icons**
 
-## 📸 Preview
-
-<!-- Adicione um screenshot do projeto na pasta public/preview.jpg para exibir aqui -->
-<!-- ![Preview](public/preview.jpg) -->
 
 ## 💻 Como rodar localmente
 
@@ -54,10 +50,6 @@ Deploy instantâneo e gratuito no [Vercel](https://vercel.com/):
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Abra uma issue ou envie um PR.
-
-## 📄 Licença
-
-MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
