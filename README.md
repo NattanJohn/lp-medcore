@@ -62,9 +62,3 @@ MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ---
 
 <p align="center">Desenvolvido com ☕ por Nattan John</p>
-npm install
-Inicie o ambiente de desenvolvimento:
-
-Bash
-npm run dev
-Desenvolvido com ☕ por Nattan John
